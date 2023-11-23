@@ -51,6 +51,5 @@ The code above was created by adapting the code in [YariPL](https://forum.freeco
 
 
 ## Acknowledgments
-
 [YariPL](https://forum.freecodecamp.org/t/arr-sort-a-b-a-b-explanation/167677) 
 
